@@ -103,7 +103,7 @@ Production_Floor_Analytics/
 └── run_analysis
 ```
 
-### General Project Folder Structure
+## General Project Folder Structure
 
 ```
 Production_Floor_Analytics/
