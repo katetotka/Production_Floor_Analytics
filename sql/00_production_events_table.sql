@@ -5,7 +5,7 @@ CREATE TABLE IF NOT EXISTS bronze_dev.manufacturing.production_events (
     EVENT_TIMESTAMP TIMESTAMP
 );
 
--- In order to insert the data to the table, the dataset.csv was insert using pyspark in a variable name `pdf`.
+-- In order to insert the data to the table, the dataset.csv was inserted using pyspark in a variable name `pdf`.
 -- Then, the variable was used to create a temporary view named `production_events_view`.
 -- Then, the view was inserted to the table.
 
